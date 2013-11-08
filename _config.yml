@@ -8,10 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Code References for Web Development
+title : Code References
 tagline: Site Tagline
 author :
-  name : Venkata Jillella
+  name : snipt
   email : venkata.jillella@gmail.com
   github : snipt
   twitter : username
