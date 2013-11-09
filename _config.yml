@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Code References
-tagline: Site Tagline
+tagline: false
 author :
   name : snipt
   email : codesnipt@gmail.com
